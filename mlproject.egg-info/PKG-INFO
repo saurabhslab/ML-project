@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: saurabh
+Author-email: saurabh01.ece@gmail.com
+Requires-Dist: pandas
